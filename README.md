@@ -1,15 +1,18 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1d4ed8,100:06b6d4&amp;height=220&amp;section=header&amp;text=Janitha%20Kandanaarachchi&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Frontend%20%26%20Backend%20%7C%20Tech%20Enthusiast&amp;descSize=16&amp;descAlignY=60&amp;animation=fadeIn" alt="Header" width="100%"/>
-
-<a href="https://github.com/jiji2001-bobo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Janitha+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Full-Stack+Developer+%F0%9F%92%BB;React+%7C+React+Native+%7C+PHP+%7C+Java;Building+things+at+JiJi+SOFT+SOLUTIONS+%F0%9F%9A%80;Avid+gamer+%26+tech+explorer+%F0%9F%8E%AE" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=180§ion=header&text=Full-Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+<a href="https://github.com/janitha-kandanaarachchi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Janitha+Kandanaarachchi+%F0%9F%87%B1%F0%9F%87%B0;BEng+%28Hons%29+Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+React+Native+Developer;IoT+%26+Embedded+Systems+Enthusiast+%F0%9F%9%94%8C;Building+smart+solutions+at+JiJi+SOFT+SOLUTIONS+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jiji2001-bobo&amp;label=Profile%20Views&amp;color=1d4ed8&amp;style=for-the-badge" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janitha-kandanaarachchi&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/janitha-kandanaarachchi?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
 <br/><br/>
 
@@ -39,22 +42,26 @@
 <tr>
 <td width="60%" valign="top">
 
+- 🎓 **BEng (Hons) in Software Engineer** & Tech Enthusiast 💻
 - 🔭 Currently working on **[JiJi SOFT SOLUTIONS](https://jijissolutions.web.app/)**
-- 🌱 Learning **Hibernate** to level up my backend skills
+- 🌿 Learning **Advanced Java & Spring Boot / Hibernate** to level up my backend skills
 - 💻 Experienced in **React Native, Java, PHP, HTML, JavaScript, ReactJS, TypeScript, TailwindCSS, Bootstrap**
+- 🔌 Building Smart IoT & Embedded Systems using **ESP32-CAM, ESP32-C6 & ATmega328P**
 - 🌍 Based in **Sri Lanka** 🇱🇰
-- ⚡ Fun fact: **I'm an avid gamer and tech explorer** 🎮
+- ⚡ Fun fact: **I'm an avid gamer and hardware/tech explorer** 🎮
 
 </td>
 <td width="40%" valign="top" align="center">
 
 ```js
 const janitha = {
-  role: "Full-Stack Developer",
+  role: "Software Engineer",
+  degree: "BEng (Hons)",
   location: "Sri Lanka 🇱🇰",
   currentlyBuilding: "JiJi SOFT SOLUTIONS",
-  currentlyLearning: "Hibernate",
-  funFact: "Avid gamer 🎮",
+  currentlyLearning: "Spring Boot & Hibernate",
+  hardwareIoT: ["ESP32", "ATmega328P"],
+  funFact: "Avid gamer & tech explorer 🎮",
 };
 ```
 
@@ -71,15 +78,23 @@ const janitha = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&amp;theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
-**Mobile**
+**Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React Native"/>
+<img src="https://skillicons.dev/icons?i=react,androidstudio,java&theme=dark" alt="Mobile"/>
 
-**Backend &amp; Databases**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=java,php,mysql,mongodb,firebase&amp;theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=java,spring,php,mysql,mongodb,firebase&theme=dark" alt="Backend & Databases"/>
+
+**Microcontrollers & IoT**
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,c&theme=dark" alt="IoT & Hardware"/>
+
+**Tools, IDEs & Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,phpstorm,pycharm,postman&theme=dark" alt="Tools"/>
 
 </div>
 
@@ -88,18 +103,16 @@ const janitha = {
 <!-- ========================= STATS ========================= -->
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jiji2001-bobo&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiji2001-bobo&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janitha-kandanaarachchi&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/janitha-kandanaarachchi?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
 ### 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jiji2001-bobo&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=janitha-kandanaarachchi&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="GitHub Streak"/>
 
 </div>
 
